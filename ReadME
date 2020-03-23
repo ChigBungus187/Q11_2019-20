@@ -8,7 +8,7 @@
 - Hautmenü-Methoden(Spielstart, anzeige Anleitung etc.)
 - Joker-Methode
 - Fächerwahl-CheckboxMethode
-- Anleitung schreiben und credits Seite
+- Anleitung schreiben und credits Seite[Seifert severin]
 
 //NB (Schulz): wer sich im Programmieren allgemein nicht ganz so fit fühlt,
 kann bzw soll auch gerne nochmal von Grund auf die Liste implementieren.
@@ -23,7 +23,7 @@ Fächer:
 - Latein
 - Französisch
 - Spanisch
-- Chemie
+- Chemie[Severin Seifert]
 - Biologie
 - Geographie  [Philipp Weißkirchen]
 - Geschichte (& Sozialkunde) [Louis Erdmann]
